@@ -67,7 +67,9 @@ Aunque el trabajo es individual, fomentamos la colaboración entre compañeros p
 
 Consideramos que es una buena oportunidad para armar equipo para los trabajos siguientes que en su mayoría son grupales. El docente del curso indica la cantidad de integrantes mínima y máxima por equipo.
 
-    a.	Informe el número de equipo en esta lista.Con el número de equipo y cuenta @frba, la Catedra le envía la invitación al repositorio privado del equipo, por     eso es importante que su cuenta GitHub tenga asociado como email público su email @frba, tal como indica el primer paso.
+    a.	Informe el número de equipo en esta lista.
+    
+    Con el número de equipo y cuenta @frba, la Catedra le envía la invitación al repositorio privado del equipo, por eso es importante que su cuenta GitHub           tenga asociado como email público su email @frba, tal como indica el primer paso.
     
     b.	Luego de aceptar la invitación al repositorio privado del equipo, si lo desea, puede cambiar el email público en GitHub.
 
